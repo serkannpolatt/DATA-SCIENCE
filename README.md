@@ -1,2 +1,2 @@
 # DATA SCIENCE
-My And Other Person's Data Analytics
+NECESSARY LİBRARIES FOR DATA SCİENCE
