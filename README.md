@@ -1,5 +1,5 @@
 # DATA SCIENCE
-#£ This DATA-SCIENCE is a repository for data science projects and scripts. The repository contains code for exploring, analyzing, and visualizing data, as well as code for building machine learning models.
+## This DATA-SCIENCE is a repository for data science projects and scripts. The repository contains code for exploring, analyzing, and visualizing data, as well as code for building machine learning models.
 
 ## Features
 ### Code for handling and cleaning raw data
