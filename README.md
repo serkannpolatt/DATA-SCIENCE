@@ -8,7 +8,7 @@
 ### Jupyter notebooks for visualizing and exploring data
 ### Machine learning models for classification, regression, clustering, and more
 ### Statistical analysis techniques such as hypothesis testing and correlation analysis
-
+### ----------------------------------------------------------------------------------------------------------------------------
 ## Türkçe 
 # VERİ BİLİMİ
 ## Bu VERİ BİLİMİ, veri bilimi projeleri ve betikleri için bir havuzdur. Depo, verileri keşfetmek, analiz etmek ve görselleştirmek için kodun yanı sıra makine öğrenimi modelleri oluşturmak için kod içerir.
